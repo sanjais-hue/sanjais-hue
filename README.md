@@ -36,6 +36,15 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+  <!-- Newly Added Icons -->
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B48?style=for-the-badge&logo=n8n&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Networking-0078D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Robotics-FF5733?style=for-the-badge&logo=robotframework&logoColor=white" />
@@ -44,7 +53,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" />
-  
 </p>
 
 ---
@@ -65,33 +73,4 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjais-hue&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=ffffff&text_color=ffffff" height="150em" />
-</p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sanjais-hue&limit=8&theme=radical&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-## 📌 Featured Projects
-- 🔹 [ESP32 & Blynk Automation](https://github.com/sanjais-hue/esp32-blynk-automation)  
-- 🔹 [Quadruped Robot Control](https://github.com/sanjais-hue/quadruped-robot)  
-- 🔹 [Flutter Attendance App](https://github.com/sanjais-hue/flutter-attendance)  
-- 🔹 [ESP8266 Battery Monitor](https://github.com/sanjais-hue/esp8266-battery-monitor)  
-- 🔹 [IoT Home Automation](https://github.com/sanjais-hue/iot-home-automation)  
-- 🔹 [Networking Project Examples](https://github.com/sanjais-hue/networking-projects)  
-- 🔹 [Raspberry Pi Automation Hub](https://github.com/sanjais-hue/rpi-automation-hub)  
-- 🔹 [Security System Dashboard](https://github.com/sanjais-hue/security-dashboard)  
-
----
-
-## 📫 Contact Me
-📧 **Email:** astssanjai@gmail.com  
-
----
-
-<!-- Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4d96ff,50:ffd93d,100:ff6b6b&height=150&section=footer"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjais-hue&layout=compa
